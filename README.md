@@ -150,17 +150,17 @@ Optional: set start-before-logon / local LAN access per policy.
 Trademarks belong to their respective owners. Prefer packages with checksums when available. GUI screenshots may depict a different UI build than the download version shown in the badges above.
 
 
-## Today’s note (2026-11-27)
+## Today’s note (2026-11-28)
 
-**Guide last reviewed:** 2026-11-27  
-Related catalog links were rotated so visitors can discover adjacent Windows utilities.
+**Guide last reviewed:** 2026-11-28  
+We re-checked download links, Windows setup notes, and system requirements for clarity.
 
 ### Tip of the day
-Keep the guide download button as your entry point so links stay aligned with the live site.
+After install, launch once and confirm the main window opens before troubleshooting advanced features.
 
 ### Related tools today
-- [Alighieri](https://warevanta.pro/alighieri/) — SOCKS5-over-TLS companion listener for ProxiFyre setups.
 - [SocksCap64](https://warevanta.pro/sockscap64/) — Force selected Windows apps through SOCKS proxies.
 - [Tor Browser](https://warevanta.pro/tor-browser/) — Privacy-focused browser routing traffic over Tor.
+- [Outline Client](https://warevanta.pro/outline-client/) — Simple Shadowsocks-based client from Jigsaw.
 
 *Auto-refreshed documentation note for [warevanta.pro](https://warevanta.pro/cisco-anyconnect/) — Cisco AnyConnect guide.*
